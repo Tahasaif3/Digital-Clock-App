@@ -22,7 +22,7 @@ export default function Clock() {
             Switch to {is24Hour ? '12-hour' : '24-hour'} format
           </button>
           <Link href="/" className="bg-transparent border-2 border-white text-white font-bold py-3 px-6 rounded-full hover:bg-white hover:text-gray-900 transition duration-300 ease-in-out transform hover:scale-105 w-full sm:w-auto text-center font-roboto">
-            Back to Welcome
+            Back to Home
           </Link>
         </div>
              {/* Footer */}
